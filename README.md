@@ -1,32 +1,32 @@
 # ORBIS Field
 
-**ORBIS Field** — aplikasi survei lapangan berbasis **GeoPDF** (mini-Avenza) untuk Android.
-Buka peta GeoPDF tanpa internet, tandai titik bernomor + foto + QC, lalu ekspor laporan rapi (PDF / CSV / KMZ / ZIP).
+**ORBIS Field** is an offline GeoPDF field-survey application for Android. Open georeferenced GeoPDF maps without an internet connection, record numbered survey points with photos and QC status, and export professional deliverables (PDF, CSV, KMZ, ZIP).
 
-> by **PT Global Papua Abadi (GPA)**
+## Download & Installation
 
-## ⬇️ Download & Install
+1. Download the APK from the **[latest release](../../releases/latest)**.
+2. On your device, open the APK file, allow installation from unknown sources, and tap **Install**.
 
-1. Download APK dari halaman **[Releases »](../../releases/latest)**.
-2. Di HP: buka file APK → izinkan **"Install dari sumber tak dikenal"** → **Install**.
-
-| File | Ukuran | Untuk |
+| File | Size | Recommended for |
 |---|---|---|
-| `ORBIS-Field-arm64.apk` | ~20 MB | **HP modern (pilih ini)** |
-| `ORBIS-Field-universal.apk` | ~57 MB | Semua HP (kalau arm64 tak jalan) |
+| `ORBIS-Field-arm64.apk` | ~20 MB | Modern phones (recommended) |
+| `ORBIS-Field-universal.apk` | ~57 MB | All devices (use if the arm64 build does not run) |
 
-> Hampir semua HP Android (2017 ke atas) pakai **arm64**. Ragu? Pakai **universal**.
+Virtually all Android phones released from 2017 onward use the arm64 architecture. If you are unsure which to choose, use the universal build.
 
-## ✨ Fitur
-- Basemap **GeoPDF offline** + GPS follow-me + kompas
-- Titik **bernomor**, kategori QC (OK / Perlu cek / Rusak), catatan, **foto**
-- **Multi-peta** per project + panel **layer** (show/hide)
-- **Ekspor**: PDF laporan (kop logo + watermark), CSV, GeoJSON, GPX, KML, KMZ, paket ZIP
-- **Impor titik** antar-project
-- **Dwibahasa**: English / Bahasa Indonesia (bisa diganti di Pengaturan)
+## Features
 
-## 📋 Izin & Privasi
-Aplikasi memakai **Lokasi (GPS)** dan **Kamera**. Semua data tersimpan **lokal di HP** dan **tidak dikirim** ke server mana pun.
+- Offline GeoPDF basemap with live GPS (follow-me) and a compass
+- Numbered survey points with QC categories (OK / Needs check / Damaged), notes, and photos
+- Multiple maps per project with a layer panel (show / hide)
+- Export to PDF report (logo header and watermark), CSV, GeoJSON, GPX, KML, KMZ, and a complete ZIP package
+- Import points between projects
+- Bilingual interface: English and Indonesian (switchable in Settings)
+
+## Permissions & Privacy
+
+The application requires Location (GPS) and Camera access. All data is stored locally on the device and is never transmitted to any server.
 
 ---
-© PT Global Papua Abadi · ORBIS Field
+
+© ORBIS Field
