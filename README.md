@@ -21,7 +21,7 @@ Virtually all Android phones released from 2017 onward use the arm64 architectur
 - Multiple maps per project with a layer panel (show / hide)
 - Export to PDF report (logo header and watermark), CSV, GeoJSON, GPX, KML, KMZ, and a complete ZIP package
 - Import points between projects
-- Bilingual interface: English and Indonesian (switchable in Settings)
+
 
 ## Permissions & Privacy
 
